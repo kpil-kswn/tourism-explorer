@@ -42,5 +42,5 @@ export default  {
 		// key-values added here will be added to the compInfo section of searchData
 	},
 	github: "https://github.com/kpil-kswn/tourism-explorer",
-	demovideo: "https://drive.google.com/file/d/1hwXgBvRbRk_gNjGI49r4mo95ytwfjymM/view?usp=sharing"
+	demovideo: "https://youtu.be/goc0oktSm50"
 }
